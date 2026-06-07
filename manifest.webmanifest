@@ -1,0 +1,10 @@
+{
+  "name": "Quiz Teórico Automática",
+  "short_name": "Automática Quiz",
+  "description": "Quiz interactivo offline de Automática UPM/ETSIDI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#2563eb",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml"}]
+}
